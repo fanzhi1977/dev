@@ -1,0 +1,933 @@
+{
+    "tiyan": {
+      "$ALL$": "e-oaaccess"
+    },
+    "kandianwoa": {
+      "$ALL$": "e-oaaccess"
+    },
+    "h5platform": {
+      "$ALL$": "e-oaaccess"
+    },
+    "StaffActivity": {
+      "$ALL$": "e-oaaccess"
+    },
+    "WholeActivity": {
+      "$ALL$": "e-oaaccess"
+    },
+    "csig930nft": {
+      "$ALL$": "e-oaaccess"
+    },
+    "csig930": {
+      "$ALL$": "e-oaaccess"
+    },
+    "smart": {
+      "$ALL$": "e-oaaccess"
+    },
+    "hr_test": {
+      "$ALL$": "e-oaaccess"
+    },
+    "csig930h5.woa.com": {
+      "$ALL$": "e-oaaccess"
+    },
+    "csig930.woa.com": {
+      "$ALL$": "e-oaaccess"
+    },
+    "hrecRenew": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+  
+    "catering": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "banche_mp": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "shuttle_mp": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "8000mobile": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "flex": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "meetingmobile": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "tijian": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "visitor": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "datatalk": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "cdata": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "HrTalentPerspective": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "zhiyan": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "yunpan": {
+      "$ALL$": "g-mproxy"
+    },
+    "QTA": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "yunpan_tendrive": {
+      "$ALL$": "g-mproxy"
+    },
+    "TAPD_m": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "iwiki": {
+      "$ALL$": "g-mproxy"
+    },
+    "iwiki_woa": {
+      "$ALL$": "g-mproxy"
+    },
+    "new_iwiki": {
+      "$ALL$": "g-mproxy"
+    },
+    "pba_miniapp_grey": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "beacondatatalk": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "bolemtencent": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "m_8000_portal": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "MFA": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "FASP": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "mk": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "mk_woa": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "my": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "panshi": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "panshi_woa": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "panshiweapp": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "pba_miniapp_online": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "qclogin": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "moa-download": {
+      "$ALL$": "g-mproxy"
+    },
+    "datatalk.m.tencent.com": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "zhiyan.woa.com": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "yunpan.oa.tencent.com": {
+      "$ALL$": "g-mproxy"
+    },
+    "yunpan.tencent.com": {
+      "$ALL$": "g-mproxy"
+    },
+    "qta.woa.com": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "iwiki.woa.com": {
+      "$ALL$": "g-mproxy"
+    },
+    "iwiki.oa.tencent.com": {
+      "$ALL$": "g-mproxy"
+    },
+    "datatalk.beacon.woa.com": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "renew.hrec.sdc.qq.com": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "pba.woa.com": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "8000.woa.com": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "mk.woa.com": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "panshi.woa.com": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "my.woa.com": {
+      "jjyy": "g-oaaccess",
+      "biz": "g-oaaccess",
+      "$ALL$": "g-mproxy"
+    },
+    "qlearning": {
+      "$ALL$": "s-oaaccess"
+    },
+    "tencentclub": {
+      "$ALL$": "s-oaaccess"
+    },
+    "MHoliday": {
+      "$ALL$": "s-oaaccess"
+    },
+    "hrcms": {
+      "$ALL$": "s-oaaccess"
+    },
+    "txcard": {
+      "biz": "s-oaaccess",
+      "$ALL$": "prod-mproxy"
+    },
+    "huoshui": {
+      "$ALL$": "s-oaaccess"
+    },
+    "ntsapps": {
+      "$ALL$": "s-oaaccess"
+    },
+    "hrchat": {
+      "$ALL$": "s-oaaccess"
+    },
+    "qbmservice": {
+      "$ALL$": "prod-mproxy"
+    },
+    "tpsroot": {
+      "$ALL$": "s-oaaccess"
+    },
+    "canteen": {
+      "$ALL$": "s-oaaccess"
+    },
+    "interview": {
+      "$ALL$": "prod-mproxy"
+    },
+    "tencentplus": {
+      "$ALL$": "s-oaaccess"
+    },
+    "analyticswv": {
+      "$ALL$": "s-oaaccess"
+    },
+    "omp-service_woa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "neigoulife": {
+      "$ALL$": "s-oaaccess"
+    },
+    "ihr": {
+      "$ALL$": "s-oaaccess"
+    },
+    "wjstaff": {
+      "$ALL$": "prod-mproxy"
+    },
+    "mhr": {
+      "$ALL$": "s-oaaccess"
+    },
+    "tencenthome_mp_api": {
+      "$ALL$": "s-oaaccess"
+    },
+    "ilabel": {
+      "$ALL$": "s-oaaccess"
+    },
+    "fib": {
+      "$ALL$": "s-oaaccess"
+    },
+    "fib_test": {
+      "$ALL$": "s-oaaccess"
+    },
+    "yunti_formal": {
+      "$ALL$": "s-oaaccess"
+    },
+    "raft": {
+      "$ALL$": "s-oaaccess"
+    },
+    "user_dcf": {
+      "$ALL$": "s-oaaccess"
+    },
+    "xc": {
+      "$ALL$": "s-oaaccess"
+    },
+    "heimdallr": {
+      "$ALL$": "s-oaaccess"
+    },
+    "crm_dcf": {
+      "$ALL$": "s-oaaccess"
+    },
+    "tonghang": {
+      "$ALL$": "s-oaaccess"
+    },
+    "taishan": {
+      "$ALL$": "s-oaaccess"
+    },
+    "vg": {
+      "$ALL$": "s-oaaccess"
+    },
+    "datainsight": {
+      "$ALL$": "s-oaaccess"
+    },
+    "test_weseehr": {
+      "$ALL$": "s-oaaccess"
+    },
+    "oneseer": {
+      "$ALL$": "s-oaaccess"
+    },
+    "hmdr": {
+      "$ALL$": "s-oaaccess"
+    },
+    "dataauth": {
+      "$ALL$": "s-oaaccess"
+    },
+    "mol_coop_wechat": {
+      "$ALL$": "s-oaaccess"
+    },
+    "srbmp": {
+      "$ALL$": "s-oaaccess"
+    },
+    "shadow-tools": {
+      "$ALL$": "s-oaaccess"
+    },
+    "Metrics": {
+      "$ALL$": "s-oaaccess"
+    },
+    "weseehr": {
+      "$ALL$": "s-oaaccess"
+    },
+    "cdn-yy": {
+      "$ALL$": "s-oaaccess"
+    },
+    "bgl-auto-parameter": {
+      "$ALL$": "s-oaaccess"
+    },
+    "test-tonghang": {
+      "$ALL$": "s-oaaccess"
+    },
+    "cockpit": {
+      "$ALL$": "s-oaaccess"
+    },
+    "dcf": {
+      "$ALL$": "s-oaaccess"
+    },
+    "greenwich_woa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "hrecRenewTest": {
+      "$ALL$": "s-oaaccess"
+    },
+    "kddata": {
+      "$ALL$": "s-oaaccess"
+    },
+    "joox": {
+      "$ALL$": "s-oaaccess"
+    },
+    "report-idata-oa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "paas_wechat": {
+      "$ALL$": "s-oaaccess"
+    },
+    "cloud_ghwt_log": {
+      "$ALL$": "s-oaaccess"
+    },
+    "paymobile": {
+      "$ALL$": "prod-mproxy"
+    },
+    "hrssc_woa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "weops_proxy": {
+      "$ALL$": "s-oaaccess"
+    },
+    "ga-mp-webview": {
+      "$ALL$": "s-oaaccess"
+    },
+    "Orange-ci": {
+      "$ALL$": "s-oaaccess"
+    },
+    "TencentDocs": {
+      "$ALL$": "s-oaaccess"
+    },
+    "digger-woa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "xiaoman": {
+      "$ALL$": "s-oaaccess"
+    },
+    "pre-cockpit": {
+      "$ALL$": "s-oaaccess"
+    },
+    "m_magic": {
+      "$ALL$": "s-oaaccess"
+    },
+    "daka": {
+      "$ALL$": "s-oaaccess"
+    },
+    "epo": {
+      "$ALL$": "s-oaaccess"
+    },
+    "smart_toilet": {
+      "$ALL$": "s-oaaccess"
+    },
+    "insurance": {
+      "$ALL$": "s-oaaccess"
+    },
+    "tgit_woa_pro": {
+      "$ALL$": "s-oaaccess"
+    },
+    "qlearning-video": {
+      "$ALL$": "s-oaaccess"
+    },
+    "iarobot_release": {
+      "$ALL$": "s-oaaccess"
+    },
+    "Andon": {
+      "$ALL$": "s-oaaccess"
+    },
+    "campusmobile": {
+      "$ALL$": "s-oaaccess"
+    },
+    "tegsport": {
+      "$ALL$": "s-oaaccess"
+    },
+    "ISDOMP": {
+      "$ALL$": "s-oaaccess"
+    },
+    "mhrcms": {
+      "$ALL$": "s-oaaccess"
+    },
+    "tegebz": {
+      "$ALL$": "s-oaaccess"
+    },
+    "ikan": {
+      "$ALL$": "s-oaaccess"
+    },
+    "zhao": {
+      "$ALL$": "s-oaaccess"
+    },
+    "mailcenter": {
+      "$ALL$": "s-oaaccess"
+    },
+    "xiaoma": {
+      "$ALL$": "s-oaaccess"
+    },
+    "TrainMobile": {
+      "$ALL$": "s-oaaccess"
+    },
+    "green-travel": {
+      "$ALL$": "s-oaaccess"
+    },
+    "fitstyle": {
+      "$ALL$": "s-oaaccess"
+    },
+    "itss": {
+      "$ALL$": "s-oaaccess"
+    },
+    "zhaopin_mresume_web": {
+      "$ALL$": "s-oaaccess"
+    },
+    "mooc": {
+      "$ALL$": "s-oaaccess"
+    },
+    "ucloudwoa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "canteensale": {
+      "$ALL$": "s-oaaccess"
+    },
+    "policywoa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "iegpw": {
+      "$ALL$": "s-oaaccess"
+    },
+    "MIA_CONSOLE": {
+      "$ALL$": "s-oaaccess"
+    },
+    "MIA": {
+      "$ALL$": "s-oaaccess"
+    },
+    "YoutuCelebration2021_test": {
+      "$ALL$": "s-oaaccess"
+    },
+    "qcareer": {
+      "$ALL$": "s-oaaccess"
+    },
+    "gsshuttle": {
+      "$ALL$": "s-oaaccess"
+    },
+    "midasmonitor": {
+      "$ALL$": "s-oaaccess"
+    },
+    "payindex": {
+      "$ALL$": "s-oaaccess"
+    },
+    "ogdb": {
+      "$ALL$": "s-oaaccess"
+    },
+    "techmap_woa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "YoutuCelebration2021_woa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "tgit_woa_staging": {
+      "$ALL$": "s-oaaccess"
+    },
+    "ZhuqueResumeMobile": {
+      "$ALL$": "s-oaaccess"
+    },
+    "iautotest": {
+      "$ALL$": "s-oaaccess"
+    },
+    "game_woa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "ntsapps_dev_m": {
+      "$ALL$": "s-oaaccess"
+    },
+    "assess": {
+      "$ALL$": "s-oaaccess"
+    },
+    "99PublicWelfare": {
+      "$ALL$": "s-oaaccess"
+    },
+    "exam": {
+      "$ALL$": "s-oaaccess"
+    },
+    "OT_Mobile_PD": {
+      "$ALL$": "s-oaaccess"
+    },
+    "jubaohelper": {
+      "$ALL$": "s-oaaccess"
+    },
+    "wxappTest": {
+      "$ALL$": "s-oaaccess"
+    },
+    "we_monitor": {
+      "$ALL$": "s-oaaccess"
+    },
+    "mycareer": {
+      "$ALL$": "s-oaaccess"
+    },
+    "pba_miniapp": {
+      "$ALL$": "s-oaaccess"
+    },
+    "rainbow": {
+      "$ALL$": "s-oaaccess"
+    },
+    "wxhrqing": {
+      "$ALL$": "s-oaaccess"
+    },
+    "parkingcard": {
+      "$ALL$": "s-oaaccess"
+    },
+    "clinic": {
+      "$ALL$": "s-oaaccess"
+    },
+    "dlpAlarm": {
+      "$ALL$": "s-oaaccess"
+    },
+    "yzf_kfdata_pro": {
+      "$ALL$": "s-oaaccess"
+    },
+    "xzfeedback_kx": {
+      "$ALL$": "s-oaaccess"
+    },
+    "cdfitness": {
+      "$ALL$": "s-oaaccess"
+    },
+    "midasoversea": {
+      "$ALL$": "s-oaaccess"
+    },
+    "dot": {
+      "$ALL$": "s-oaaccess"
+    },
+    "alphaApprovalh5": {
+      "$ALL$": "s-oaaccess"
+    },
+    "MobileCostBeta02": {
+      "$ALL$": "s-oaaccess"
+    },
+    "crm1": {
+      "$ALL$": "prod-mproxy"
+    },
+    "dcmini": {
+      "$ALL$": "s-oaaccess"
+    },
+    "wxfit": {
+      "$ALL$": "s-oaaccess"
+    },
+    "imur-insight-woa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "TT_HELPER": {
+      "$ALL$": "s-oaaccess"
+    },
+    "NewLib": {
+      "$ALL$": "s-oaaccess"
+    },
+    "zhiyan_sops": {
+      "$ALL$": "s-oaaccess"
+    },
+    "zhaopin_mresume_api": {
+      "$ALL$": "s-oaaccess"
+    },
+    "health_checkin": {
+      "$ALL$": "s-oaaccess"
+    },
+    "wxmpvx": {
+      "$ALL$": "s-oaaccess"
+    },
+    "MFDW": {
+      "$ALL$": "s-oaaccess"
+    },
+    "ovbu": {
+      "$ALL$": "s-oaaccess"
+    },
+    "autoTrack": {
+      "$ALL$": "prod-mproxy"
+    },
+    "askit_print_mini": {
+      "$ALL$": "s-oaaccess"
+    },
+    "banche": {
+      "$ALL$": "s-oaaccess"
+    },
+    "mtea": {
+      "$ALL$": "s-oaaccess"
+    },
+    "iegmdms": {
+      "$ALL$": "s-oaaccess"
+    },
+    "wxdevice": {
+      "$ALL$": "s-oaaccess"
+    },
+    "maskrecv": {
+      "$ALL$": "s-oaaccess"
+    },
+    "8000pd_sys": {
+      "$ALL$": "s-oaaccess"
+    },
+    "brief_prod": {
+      "$ALL$": "s-oaaccess"
+    },
+    "hrtps": {
+      "$ALL$": "s-oaaccess"
+    },
+    "RGC": {
+      "$ALL$": "s-oaaccess"
+    },
+    "flow": {
+      "$ALL$": "s-oaaccess"
+    },
+    "prowork_woa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "reporttrouble": {
+      "$ALL$": "s-oaaccess"
+    },
+    "receptions": {
+      "$ALL$": "s-oaaccess"
+    },
+    "qlmp": {
+      "$ALL$": "s-oaaccess"
+    },
+    "pay": {
+      "$ALL$": "s-oaaccess"
+    },
+    "amsexp": {
+      "$ALL$": "s-oaaccess"
+    },
+    "codesign": {
+      "$ALL$": "s-oaaccess"
+    },
+    "cdlife": {
+      "$ALL$": "s-oaaccess"
+    },
+    "stadium": {
+      "$ALL$": "s-oaaccess"
+    },
+    "tianji_applet": {
+      "$ALL$": "s-oaaccess"
+    },
+    "andata": {
+      "$ALL$": "prod-mproxy"
+    },
+    "igniter": {
+      "$ALL$": "s-oaaccess"
+    },
+    "fitduty": {
+      "$ALL$": "s-oaaccess"
+    },
+    "mtus": {
+      "$ALL$": "s-oaaccess"
+    },
+    "liaomood": {
+      "$ALL$": "s-oaaccess"
+    },
+    "FIN_TABLEAU": {
+      "$ALL$": "s-oaaccess"
+    },
+    "mobdata_woa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "restaurantroom": {
+      "$ALL$": "s-oaaccess"
+    },
+    "cdata-miniprogram": {
+      "$ALL$": "s-oaaccess"
+    },
+    "yehe_woa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "tb": {
+      "$ALL$": "s-oaaccess"
+    },
+    "mmbizpocnode": {
+      "$ALL$": "s-oaaccess"
+    },
+    "adboss": {
+      "$ALL$": "s-oaaccess"
+    },
+    "beacon": {
+      "$ALL$": "s-oaaccess"
+    },
+    "Sunshine": {
+      "$ALL$": "s-oaaccess"
+    },
+    "moon-api": {
+      "$ALL$": "s-oaaccess"
+    },
+    "qlmini": {
+      "$ALL$": "s-oaaccess"
+    },
+    "medicaldata": {
+      "$ALL$": "s-oaaccess"
+    },
+    "devpanshiweapp": {
+      "$ALL$": "s-oaaccess"
+    },
+    "HRAppealMobile": {
+      "$ALL$": "s-oaaccess"
+    },
+    "pcgmonitor": {
+      "$ALL$": "s-oaaccess"
+    },
+    "DimissionMobile": {
+      "$ALL$": "s-oaaccess"
+    },
+    "booking": {
+      "$ALL$": "s-oaaccess"
+    },
+    "tcpa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "qcloud-mm": {
+      "$ALL$": "s-oaaccess"
+    },
+    "TechMP": {
+      "$ALL$": "s-oaaccess"
+    },
+    "dev_andon": {
+      "$ALL$": "s-oaaccess"
+    },
+    "devpanshi_woa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "fengshengwxmp": {
+      "$ALL$": "s-oaaccess"
+    },
+    "reserveparking": {
+      "$ALL$": "s-oaaccess"
+    },
+    "cms_helper": {
+      "$ALL$": "s-oaaccess"
+    },
+    "BHMediaHR": {
+      "$ALL$": "s-oaaccess"
+    },
+    "moa-identity-release": {
+      "$ALL$": "s-oaaccess"
+    },
+    "ogdb-pre": {
+      "$ALL$": "s-oaaccess"
+    },
+    "isit2020": {
+      "$ALL$": "prod-mproxy"
+    },
+    "wecloud_woa": {
+      "$ALL$": "s-oaaccess"
+    },
+    "crm2": {
+      "$ALL$": "prod-mproxy"
+    },
+    "dev_xiaoma": {
+      "$ALL$": "s-oaaccess"
+    },
+    "TSS_FRONT": {
+      "$ALL$": "s-oaaccess"
+    },
+    "gzxz": {
+      "$ALL$": "s-oaaccess"
+    },
+    "vb-devops": {
+      "$ALL$": "s-oaaccess"
+    },
+    "idex": {
+      "$ALL$": "s-oaaccess"
+    },
+    "fit_safe_event": {
+      "$ALL$": "s-oaaccess"
+    },
+    "bk_monitor_cloud": {
+      "$ALL$": "s-oaaccess"
+    },
+    "yzf_web_test": {
+      "$ALL$": "s-oaaccess"
+    },
+    "rapi": {
+      "$ALL$": "prod-mproxy"
+    },
+    "tiyan2": {
+      "jjyy": "s-oaaccess",
+      "it": "s-oaaccess",
+      "mhr": "s-oaaccess",
+      "teg": "s-oaaccess",
+      "biz": "s-oaaccess",
+      "$ALL$": "s-oaaccess"
+    },
+    "alumni": {
+      "$ALL$": "prod-mproxy"
+    },
+    "SR_RiskMgmt_Dashboard_test": {
+      "$ALL$": "prod-mproxy"
+    },
+    "SR_RiskMgmt_Dashboard": {
+      "$ALL$": "prod-mproxy"
+    },
+    "srriskmgmt.woa.com": {
+      "$ALL$": "prod-mproxy"
+    },
+    "vtp": {
+      "$ALL$": "prod-mproxy"
+    },
+    "vtp-online": {
+      "$ALL$": "prod-mproxy"
+    },
+    "NextOpia_Mobile": {
+      "$ALL$": "prod-mproxy"
+    },
+    "NextOpia": {
+      "$ALL$": "prod-mproxy"
+    },
+    "tpp": {
+      "$ALL$": "prod-mproxy"
+    },
+    "ma2": {
+      "$ALL$": "prod-mproxy"
+    },
+    "yzf_web_real": {
+      "$ALL$": "prod-mproxy"
+    },
+    "yzf_web_pred": {
+      "$ALL$": "prod-mproxy"
+    },
+    "tencent_yzf_pro": {
+      "$ALL$": "prod-mproxy"
+    },
+    "$ALL$": {
+      "$ALL$": "prod-mproxy"
+    }
+  }
